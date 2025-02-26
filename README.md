@@ -1,6 +1,6 @@
 ## Hi, there 👋
 ### About me:
-👨‍💻 I'm Francesca Saglimbeni, a Master's student in Computer Engineering - Artificial Intelligence and Data Analytics at Politecnico di Torino. <br>
+👨‍💻 I'm Francesca Saglimbeni, a Master's student in Computer Engineering - Artificial Intelligence and Data Analytics at Polytechnique of Turin. <br>
 💡 Experience with web development (JavaScript and React), system-level projects (Rust), and neural networks (Python). Also familiar with C, Assembly, and Java<br>
 🔭 I'm always open to new experiences and eager to learn. <br>
 📌 Passionate about artificial intelligence, data science, and software engineering.  <br>
